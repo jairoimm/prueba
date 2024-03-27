@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    background-position: center;
+    background-size: cover;
+}
+
+
+h1 {
+    font-family: "Bebas Neue", sans-serif;
+}
+
+#wrapper1 {
+    text-align: center;
+    color: #ffff;
+}
+
+.text-center1 {
+    background: aquamarine;
+    padding: 25px;
+    color: #ffff;
+}
+
+.text-center2 {
+    background: aquamarine;
+    padding: 25px;
+    color: #ffff;
+}
+
+.text-center3 {
+    background: aquamarine;
+    padding: 25px;
+    color: #ffff;
+}
+
+.wrapper2 {
+    text-align: center;
+    color: #ffff;
+}
+
+.card {
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    background: #000;
+    color: white;
+    padding: 30px
+}
